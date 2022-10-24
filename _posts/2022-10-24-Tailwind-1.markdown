@@ -1,17 +1,20 @@
+---
+layout: post
+title:  "Tailwind-1"
+date:   2022-10-24 14:57:00 +0900
+categories: tailwind
+---
+
 Tailwind
 
 > Tailwind는 모바일 우선으로 UI를 작성한다. 
 # Responsive
 
-<ol> 
-
-1. sm
-2. md
-3. lg
-4. xl
-5. 2xl
-6. protrait
-7. landscape
-8. Dark Mode
-
-</ol>
+1. sm <hr/>
+2. md <hr/>
+3. lg <hr/>
+4. xl <hr/>
+5. 2xl <hr/>
+6. protrait <hr/>
+7. landscape <hr/>
+8. Dark Mode <hr/>
