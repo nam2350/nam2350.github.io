@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "NextJS 렌더링 방법"
+date:   2022-10-24 14:57:00 +0900
+categories: NextJS
+---
+
+# SSG를 사용하면 좋은 페이지
+- Marketing
+- Blog posts
+- E-commerce product listings
+- Help and documentation
+
+적용 여부 선택 기준
+사용자가 페이지를 요청하기 전에 pre-render 할 수 있는지?
+안된다면 SSR or ISR or CSR을 선택해야 한다.
+
+SSG의 두가지 케이스
+- 외부 데이터 없이 pre-rendering
+- 외부 데이터를 가져와서 pre-rendering
+
+
